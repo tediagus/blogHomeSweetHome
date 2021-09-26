@@ -1,0 +1,14 @@
+{
+	"plugins": [
+		"stylelint-css"
+	],
+	"extends": "stylelint-config-standard",
+	"rules": {
+		"indentation": "tab",
+		"at-rule-no-unknown": null,
+		"scss/at-rule-no-unknow":null,
+		"font-family-no-missing-generic-family-keyword": null,
+		"no-descending-specificity": null,
+		"declaration-block-no-shorthand-property-overrides": null
+	}
+}
