@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 /* process.env !== 'production' ? 'http://localhost:3000' : */
-export const EVENT_URL = 'https://homeapi.vercel.app/';
+export const EVENT_URL = 'https://homeapi.vercel.app';
 // export const EVENT_URL = 'http://localhost:3000';
 
 const EventService = {
